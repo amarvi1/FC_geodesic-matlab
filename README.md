@@ -50,4 +50,4 @@ ar.plot_results;
 ```
 
 ## Figures
-HTML figures for the reference paper are provided in the `figures` folder [here](), provided by the original repository linked above. HTML figures allow for better visibility in a 3-dimensional space. 
+HTML figures for the reference paper are provided in the `figures` folder [here](https://github.com/amarvi1/FC_geodesic-matlab/tree/main/figures), provided by the original repository linked above. HTML figures allow for better visibility in a 3-dimensional space. 
