@@ -21,7 +21,7 @@ This repository contains the following classes
 * `distance_matrix_requestor.m`
 * `accuracy_requestor.m`
 
-[`distance_FC.m`]() is the main code, which computes either the geodesic distance or Pearson dissimilarity between two FC matrices. 
+[`distance_FC.m`](https://github.com/amarvi1/FC_geodesic-matlab/blob/main/utils/distance_FC/distance_FC.m) is the main code, which computes either the geodesic distance or Pearson dissimilarity between two FC matrices. 
 
 `distance_matrix_requestor.m` and `accuracy_requestor.m` are available in the `utils/FC_analyzer` folder [here](). Use these to compute the accuracy of the geodesic or Pearson methods and plot the results.
 
