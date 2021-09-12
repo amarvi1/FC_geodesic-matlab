@@ -6,6 +6,7 @@ MatLab implementation of code given in [FC_geodesic repository](https://github.c
 * [Data](#data)
 * [Code](#data)
 * [Launch](#launch)
+* [Figures](#figures)
 
 
 ## Functional Connectivity Matrices
@@ -47,3 +48,6 @@ ar.make_accuracy_requests;
 % plot the results
 ar.plot_results;
 ```
+
+## Figures
+HTML figures for the reference paper are provided in the `figures` folder [here](), provided by the original repository linked above. HTML figures allow for better visibility in a 3-dimensional space. 
